@@ -2,7 +2,7 @@
 
 Victor M. Preciado
 
-[Read the free sample (PDF)](linear-models-for-nonlinear-dynamics-free-sample.pdf)
+[Download the free sample (PDF)](https://raw.githubusercontent.com/vmpreciado/linear-models-for-nonlinear-dynamics/main/linear-models-for-nonlinear-dynamics-free-sample.pdf)
 
 The sample includes the full table of contents and the first three chapters.
 
